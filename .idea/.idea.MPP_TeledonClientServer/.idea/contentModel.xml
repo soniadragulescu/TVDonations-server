@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\sonia\.Rider2019.3\config\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\sonia\.Rider2019.3\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\sonia\.Rider2019.3\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\sonia\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\sonia\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_MPP_TeledonClientServer.-864211243.00" t="ExcludeRecursive" />
+    <e p="C:\Users\sonia\RiderProjects\MPP_TeledonClientServer" t="IncludeFlat">
+      <e p="client" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="client.csproj" t="IncludeRecursive" />
+        <e p="Controller.cs" t="Include" />
+        <e p="FormLogin.cs" t="Include" />
+        <e p="FormLogin.Designer.cs" t="Include" />
+        <e p="FormLogin.resx" t="Include" />
+        <e p="FormMain.cs" t="Include" />
+        <e p="FormMain.Designer.cs" t="Include" />
+        <e p="FormMain.resx" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="StartClient.cs" t="Include" />
+      </e>
+      <e p="model" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Case.cs" t="Include" />
+        <e p="Donation.cs" t="Include" />
+        <e p="Donor.cs" t="Include" />
+        <e p="Entity.cs" t="Include" />
+        <e p="model.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Volunteer.cs" t="Include" />
+      </e>
+      <e p="MPP_TeledonClientServer.sln" t="IncludeFlat" />
+      <e p="networking" t="IncludeRecursive">
+        <e p="AbstractServer.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ConcurrentServer.cs" t="Include" />
+        <e p="networking.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="ObjectRequestProtocol.cs" t="Include" />
+        <e p="ObjectResponseProtocol.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="ProxyService.cs" t="Include" />
+        <e p="Worker.cs" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="repos" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CaseRepository.cs" t="Include" />
+        <e p="DBUtils.cs" t="Include" />
+        <e p="DonationRepository.cs" t="Include" />
+        <e p="DonorRepository.cs" t="Include" />
+        <e p="ICaseRepository.cs" t="Include" />
+        <e p="ICrudRepository.cs" t="Include" />
+        <e p="IDonationRepository.cs" t="Include" />
+        <e p="IDonorRepository.cs" t="Include" />
+        <e p="IVolunteerRepository.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="repos.csproj" t="IncludeRecursive" />
+        <e p="VolunteerRepository.cs" t="Include" />
+      </e>
+      <e p="server" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="SerialServer.cs" t="Include" />
+        <e p="server.csproj" t="IncludeRecursive" />
+        <e p="ServerService.cs" t="Include" />
+        <e p="StartServer.cs" t="Include" />
+      </e>
+      <e p="services" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="DonationService.cs" t="Include" />
+        <e p="ITeledonObserver.cs" t="Include" />
+        <e p="ITeledonService.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="services.csproj" t="IncludeRecursive" />
+        <e p="TeledonException.cs" t="Include" />
+        <e p="VolunteerService.cs" t="Include" />
+      </e>
+    </e>
+  </component>
+</project>

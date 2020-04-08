@@ -1,0 +1,5 @@
+C:\Users\sonia\RiderProjects\MPP_TeledonClientServer\model\bin\Debug\model.dll
+C:\Users\sonia\RiderProjects\MPP_TeledonClientServer\model\bin\Debug\model.pdb
+C:\Users\sonia\RiderProjects\MPP_TeledonClientServer\model\obj\Debug\model.csprojAssemblyReference.cache
+C:\Users\sonia\RiderProjects\MPP_TeledonClientServer\model\obj\Debug\model.dll
+C:\Users\sonia\RiderProjects\MPP_TeledonClientServer\model\obj\Debug\model.pdb

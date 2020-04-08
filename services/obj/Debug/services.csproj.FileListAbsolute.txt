@@ -1,0 +1,16 @@
+C:\Users\sonia\RiderProjects\MPP_TeledonClientServer\services\bin\Debug\services.dll
+C:\Users\sonia\RiderProjects\MPP_TeledonClientServer\services\bin\Debug\services.pdb
+C:\Users\sonia\RiderProjects\MPP_TeledonClientServer\services\bin\Debug\model.dll
+C:\Users\sonia\RiderProjects\MPP_TeledonClientServer\services\bin\Debug\repos.dll
+C:\Users\sonia\RiderProjects\MPP_TeledonClientServer\services\bin\Debug\log4net.dll
+C:\Users\sonia\RiderProjects\MPP_TeledonClientServer\services\bin\Debug\System.Data.SQLite.dll
+C:\Users\sonia\RiderProjects\MPP_TeledonClientServer\services\bin\Debug\model.pdb
+C:\Users\sonia\RiderProjects\MPP_TeledonClientServer\services\bin\Debug\repos.pdb
+C:\Users\sonia\RiderProjects\MPP_TeledonClientServer\services\bin\Debug\repos.dll.config
+C:\Users\sonia\RiderProjects\MPP_TeledonClientServer\services\bin\Debug\log4net.xml
+C:\Users\sonia\RiderProjects\MPP_TeledonClientServer\services\bin\Debug\System.Data.SQLite.xml
+C:\Users\sonia\RiderProjects\MPP_TeledonClientServer\services\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\sonia\RiderProjects\MPP_TeledonClientServer\services\obj\Debug\services.csprojAssemblyReference.cache
+C:\Users\sonia\RiderProjects\MPP_TeledonClientServer\services\obj\Debug\services.csproj.CopyComplete
+C:\Users\sonia\RiderProjects\MPP_TeledonClientServer\services\obj\Debug\services.dll
+C:\Users\sonia\RiderProjects\MPP_TeledonClientServer\services\obj\Debug\services.pdb

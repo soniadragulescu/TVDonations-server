@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e819a5a3-ea1a-4f81-b397-5c663fdbcb7b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mpp" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mpp" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mpp" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/model/Donation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/model/Donor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/model/Entity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/repos/App.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/model/Volunteer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/repos/CaseRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/client/FormLogin.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/repos/DBUtils.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/client/FormLogin.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/repos/DonationRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/client/FormMain.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/repos/DonorRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/client/FormMain.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/repos/ICaseRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/repos/ICrudRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/repos/IDonationRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/repos/IDonorRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/repos/IVolunteerRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/repos/VolunteerRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/services/DonationService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/server/App.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/services/VolunteerService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/client/StartClient.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/client/FormLogin.resx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/services/TeledonException.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/repos/packages.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/services/ITeledonService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/services/ITeledonObserver.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/server/ServerService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/server/StartServer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/networking/AbstractServer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/repos/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/networking/ConcurrentServer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/server/SerialServer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/networking/Worker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/networking/ObjectRequestProtocol.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/networking/ObjectResponseProtocol.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/networking/ProxyService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/client/Controller.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/model/Case.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/server/Program.cs" />
+        <option value="$PROJECT_DIR$/model/Class1.cs" />
+        <option value="$PROJECT_DIR$/services/Class1.cs" />
+        <option value="$PROJECT_DIR$/repos/Class1.cs" />
+        <option value="$PROJECT_DIR$/networking/Class1.cs" />
+        <option value="$PROJECT_DIR$/repos/CaseRepository.cs" />
+        <option value="$PROJECT_DIR$/repos/DBUtils.cs" />
+        <option value="$PROJECT_DIR$/repos/DonationRepository.cs" />
+        <option value="$PROJECT_DIR$/repos/DonorRepository.cs" />
+        <option value="$PROJECT_DIR$/repos/ICaseRepository.cs" />
+        <option value="$PROJECT_DIR$/repos/ICrudRepository.cs" />
+        <option value="$PROJECT_DIR$/repos/IDonationRepository.cs" />
+        <option value="$PROJECT_DIR$/repos/IDonorRepository.cs" />
+        <option value="$PROJECT_DIR$/repos/IVolunteerRepository.cs" />
+        <option value="$PROJECT_DIR$/repos/VolunteerRepository.cs" />
+        <option value="$PROJECT_DIR$/services/DonationService.cs" />
+        <option value="$PROJECT_DIR$/services/VolunteerService.cs" />
+        <option value="$PROJECT_DIR$/client/FormLogin.Designer.cs" />
+        <option value="$PROJECT_DIR$/client/Program.cs" />
+        <option value="$PROJECT_DIR$/services/TeledonException.cs" />
+        <option value="$PROJECT_DIR$/services/ITeledonObserver.cs" />
+        <option value="$PROJECT_DIR$/server/Server.cs" />
+        <option value="$PROJECT_DIR$/networking/ServerUtils.cs" />
+        <option value="$PROJECT_DIR$/networking/AbstractServer.cs" />
+        <option value="$PROJECT_DIR$/networking/ConcurrentServer.cs" />
+        <option value="$PROJECT_DIR$/networking/SerialServer.cs" />
+        <option value="$PROJECT_DIR$/server/SerialServer.cs" />
+        <option value="$PROJECT_DIR$/repos/Properties/AssemblyInfo.cs" />
+        <option value="$PROJECT_DIR$/repos/AppRepo.config" />
+        <option value="$PROJECT_DIR$/repos/App.config" />
+        <option value="$PROJECT_DIR$/server/App.config" />
+        <option value="$PROJECT_DIR$/networking/ObjectRequestProtocol.cs" />
+        <option value="$PROJECT_DIR$/model/Case.cs" />
+        <option value="$PROJECT_DIR$/model/Donation.cs" />
+        <option value="$PROJECT_DIR$/model/Donor.cs" />
+        <option value="$PROJECT_DIR$/model/Volunteer.cs" />
+        <option value="$PROJECT_DIR$/model/Entity.cs" />
+        <option value="$PROJECT_DIR$/client/FormLogin.cs" />
+        <option value="$PROJECT_DIR$/client/StartClient.cs" />
+        <option value="$PROJECT_DIR$/server/StartServer.cs" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/e38a2f69-02f7-4095-b8f5-ec4efcc7fc8b/console.sql" />
+        <option value="$PROJECT_DIR$/client/FormMain.Designer.cs" />
+        <option value="$PROJECT_DIR$/services/ITeledonService.cs" />
+        <option value="$PROJECT_DIR$/server/ServerService.cs" />
+        <option value="$PROJECT_DIR$/networking/Worker.cs" />
+        <option value="$PROJECT_DIR$/networking/ObjectResponseProtocol.cs" />
+        <option value="$PROJECT_DIR$/networking/ProxyService.cs" />
+        <option value="$PROJECT_DIR$/client/Controller.cs" />
+        <option value="$PROJECT_DIR$/client/FormMain.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a5JolMrfGXOyIihE0xohvNfT3t" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager" selected=".NET Project.MPP_TeledonClientServer">
+    <configuration name="MPP_TeledonClientServer" type="DotNetProject" factoryName=".NET Project" singleton="false">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/client/bin/Debug/client.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/client/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/client/client.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.2" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="server" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/server/server.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.2" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue=".NET Project.MPP_TeledonClientServer" />
+      <item itemvalue=".NET Project.server" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue=".NET Project.server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:mpp" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:mpp" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@382b5e39" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e819a5a3-ea1a-4f81-b397-5c663fdbcb7b" name="Default Changelist" comment="" />
+      <created>1586019698080</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586019698080</updated>
+      <workItem from="1586019699672" duration="7068000" />
+      <workItem from="1586203026010" duration="193000" />
+      <workItem from="1586203616997" duration="8005000" />
+      <workItem from="1586212092086" duration="289000" />
+      <workItem from="1586253261166" duration="7437000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state x="191" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586271733891">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="191" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1586271733891" />
+    <state width="1237" height="319" key="GridCell.Tab.0.bottom" timestamp="1586272184224">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="319" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1586272184224" />
+    <state width="1237" height="319" key="GridCell.Tab.0.center" timestamp="1586272184223">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="319" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1586272184223" />
+    <state width="1237" height="319" key="GridCell.Tab.0.left" timestamp="1586272184223">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="319" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1586272184223" />
+    <state width="1237" height="319" key="GridCell.Tab.0.right" timestamp="1586272184224">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="319" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1586272184224" />
+    <state width="1237" height="249" key="GridCell.Tab.1.bottom" timestamp="1586212068913">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="249" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1586212068913" />
+    <state width="1237" height="249" key="GridCell.Tab.1.center" timestamp="1586212068913">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="249" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1586212068913" />
+    <state width="1237" height="249" key="GridCell.Tab.1.left" timestamp="1586212068913">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="249" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1586212068913" />
+    <state width="1237" height="249" key="GridCell.Tab.1.right" timestamp="1586212068913">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="249" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1586212068913" />
+    <state width="1237" height="249" key="GridCell.Tab.2.bottom" timestamp="1586212068913">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="249" key="GridCell.Tab.2.bottom/0.0.1280.680@0.0.1280.680" timestamp="1586212068913" />
+    <state width="1237" height="249" key="GridCell.Tab.2.center" timestamp="1586212068913">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="249" key="GridCell.Tab.2.center/0.0.1280.680@0.0.1280.680" timestamp="1586212068913" />
+    <state width="1237" height="249" key="GridCell.Tab.2.left" timestamp="1586212068913">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="249" key="GridCell.Tab.2.left/0.0.1280.680@0.0.1280.680" timestamp="1586212068913" />
+    <state width="1237" height="249" key="GridCell.Tab.2.right" timestamp="1586212068913">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="249" key="GridCell.Tab.2.right/0.0.1280.680@0.0.1280.680" timestamp="1586212068913" />
+    <state width="1237" height="249" key="GridCell.Tab.3.bottom" timestamp="1586212068914">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="249" key="GridCell.Tab.3.bottom/0.0.1280.680@0.0.1280.680" timestamp="1586212068914" />
+    <state width="1237" height="249" key="GridCell.Tab.3.center" timestamp="1586212068914">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="249" key="GridCell.Tab.3.center/0.0.1280.680@0.0.1280.680" timestamp="1586212068914" />
+    <state width="1237" height="249" key="GridCell.Tab.3.left" timestamp="1586212068914">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="249" key="GridCell.Tab.3.left/0.0.1280.680@0.0.1280.680" timestamp="1586212068914" />
+    <state width="1237" height="249" key="GridCell.Tab.3.right" timestamp="1586212068914">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="249" key="GridCell.Tab.3.right/0.0.1280.680@0.0.1280.680" timestamp="1586212068914" />
+    <state width="1237" height="249" key="GridCell.Tab.4.bottom" timestamp="1586212068914">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="249" key="GridCell.Tab.4.bottom/0.0.1280.680@0.0.1280.680" timestamp="1586212068914" />
+    <state width="1237" height="249" key="GridCell.Tab.4.center" timestamp="1586212068914">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="249" key="GridCell.Tab.4.center/0.0.1280.680@0.0.1280.680" timestamp="1586212068914" />
+    <state width="1237" height="249" key="GridCell.Tab.4.left" timestamp="1586212068914">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="249" key="GridCell.Tab.4.left/0.0.1280.680@0.0.1280.680" timestamp="1586212068914" />
+    <state width="1237" height="249" key="GridCell.Tab.4.right" timestamp="1586212068914">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="249" key="GridCell.Tab.4.right/0.0.1280.680@0.0.1280.680" timestamp="1586212068914" />
+    <state x="0" y="73" key="Rider.ProjectTemplateDialog.Size" timestamp="1586019966252">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="73" key="Rider.ProjectTemplateDialog.Size/0.0.1280.680@0.0.1280.680" timestamp="1586019966252" />
+    <state x="31" y="30" key="RiderGenerateDialog" timestamp="1586255301427">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="31" y="30" key="RiderGenerateDialog/0.0.1280.680@0.0.1280.680" timestamp="1586255301427" />
+    <state x="0" y="0" key="SettingsEditor" timestamp="1586023377049">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1586023377049" />
+    <state x="1" y="96" key="WebReferenceSession.Dialog" timestamp="1586020126732">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="1" y="96" key="WebReferenceSession.Dialog/0.0.1280.680@0.0.1280.680" timestamp="1586020126732" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/networking/Worker.cs</url>
+          <line>145</line>
+          <properties documentPath="$PROJECT_DIR$/networking/Worker.cs" initialLine="145">
+            <startOffsets>
+              <option value="4250" />
+            </startOffsets>
+            <endOffsets>
+              <option value="4297" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
