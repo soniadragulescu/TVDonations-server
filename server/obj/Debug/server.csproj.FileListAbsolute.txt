@@ -25,3 +25,16 @@ C:\Users\sonia\RiderProjects\MPP_TeledonClientServer\server\bin\Debug\System.Dat
 C:\Users\sonia\RiderProjects\MPP_TeledonClientServer\server\bin\Debug\System.Data.SQLite.Linq.dll
 C:\Users\sonia\RiderProjects\MPP_TeledonClientServer\server\bin\Debug\EntityFramework.xml
 C:\Users\sonia\RiderProjects\MPP_TeledonClientServer\server\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sonia\RiderProjects\MPP_TeledonClientServer\server\bin\Debug\proto.dll
+C:\Users\sonia\RiderProjects\MPP_TeledonClientServer\server\bin\Debug\Google.Protobuf.dll
+C:\Users\sonia\RiderProjects\MPP_TeledonClientServer\server\bin\Debug\System.Memory.dll
+C:\Users\sonia\RiderProjects\MPP_TeledonClientServer\server\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sonia\RiderProjects\MPP_TeledonClientServer\server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sonia\RiderProjects\MPP_TeledonClientServer\server\bin\Debug\System.Buffers.dll
+C:\Users\sonia\RiderProjects\MPP_TeledonClientServer\server\bin\Debug\proto.pdb
+C:\Users\sonia\RiderProjects\MPP_TeledonClientServer\server\bin\Debug\Google.Protobuf.pdb
+C:\Users\sonia\RiderProjects\MPP_TeledonClientServer\server\bin\Debug\Google.Protobuf.xml
+C:\Users\sonia\RiderProjects\MPP_TeledonClientServer\server\bin\Debug\System.Memory.xml
+C:\Users\sonia\RiderProjects\MPP_TeledonClientServer\server\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\sonia\RiderProjects\MPP_TeledonClientServer\server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\sonia\RiderProjects\MPP_TeledonClientServer\server\bin\Debug\System.Buffers.xml

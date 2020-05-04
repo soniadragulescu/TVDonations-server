@@ -74,6 +74,10 @@
         <Project>{5c232e4c-206b-4114-83f1-7547a904dcd0}</Project>
         <Name>networking</Name>
       </ProjectReference>
+      <ProjectReference Include="..\proto\proto.csproj">
+        <Project>{55433771-0de6-4ff8-98ff-97ce7a3b65c3}</Project>
+        <Name>proto</Name>
+      </ProjectReference>
       <ProjectReference Include="..\repos\repos.csproj">
         <Project>{620c9594-a4f5-45aa-b1f7-b377122a4d40}</Project>
         <Name>repos</Name>

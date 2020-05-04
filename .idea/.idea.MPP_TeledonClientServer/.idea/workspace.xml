@@ -1,7 +1,197 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e819a5a3-ea1a-4f81-b397-5c663fdbcb7b" name="Default Changelist" comment="" />
+    <list default="true" id="e819a5a3-ea1a-4f81-b397-5c663fdbcb7b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/packages/Google.Protobuf.3.11.4/.signature.p7s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Google.Protobuf.3.11.4/Google.Protobuf.3.11.4.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Google.Protobuf.3.11.4/lib/net45/Google.Protobuf.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Google.Protobuf.3.11.4/lib/net45/Google.Protobuf.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Google.Protobuf.3.11.4/lib/net45/Google.Protobuf.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Google.Protobuf.3.11.4/lib/netstandard1.0/Google.Protobuf.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Google.Protobuf.3.11.4/lib/netstandard1.0/Google.Protobuf.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Google.Protobuf.3.11.4/lib/netstandard1.0/Google.Protobuf.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Google.Protobuf.3.11.4/lib/netstandard2.0/Google.Protobuf.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Google.Protobuf.3.11.4/lib/netstandard2.0/Google.Protobuf.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Google.Protobuf.3.11.4/lib/netstandard2.0/Google.Protobuf.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Buffers.4.4.0/.signature.p7s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Buffers.4.4.0/LICENSE.TXT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Buffers.4.4.0/System.Buffers.4.4.0.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Buffers.4.4.0/THIRD-PARTY-NOTICES.TXT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Buffers.4.4.0/lib/netcoreapp2.0/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Buffers.4.4.0/lib/netstandard1.1/System.Buffers.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Buffers.4.4.0/lib/netstandard1.1/System.Buffers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Buffers.4.4.0/lib/netstandard2.0/System.Buffers.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Buffers.4.4.0/lib/netstandard2.0/System.Buffers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Buffers.4.4.0/ref/netcoreapp2.0/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Buffers.4.4.0/ref/netstandard1.1/System.Buffers.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Buffers.4.4.0/ref/netstandard1.1/System.Buffers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Buffers.4.4.0/ref/netstandard2.0/System.Buffers.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Buffers.4.4.0/ref/netstandard2.0/System.Buffers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Buffers.4.4.0/useSharedDesignerContext.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Buffers.4.4.0/version.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Memory.4.5.2/.signature.p7s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Memory.4.5.2/LICENSE.TXT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Memory.4.5.2/System.Memory.4.5.2.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Memory.4.5.2/THIRD-PARTY-NOTICES.TXT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Memory.4.5.2/lib/netcoreapp2.1/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Memory.4.5.2/lib/netstandard1.1/System.Memory.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Memory.4.5.2/lib/netstandard1.1/System.Memory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Memory.4.5.2/lib/netstandard2.0/System.Memory.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Memory.4.5.2/lib/netstandard2.0/System.Memory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Memory.4.5.2/ref/netcoreapp2.1/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Memory.4.5.2/useSharedDesignerContext.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Memory.4.5.2/version.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/.signature.p7s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/LICENSE.TXT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/System.Numerics.Vectors.4.4.0.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/THIRD-PARTY-NOTICES.TXT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/lib/MonoAndroid10/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/lib/MonoTouch10/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/lib/net46/System.Numerics.Vectors.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/lib/net46/System.Numerics.Vectors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/lib/netcoreapp2.0/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/lib/netstandard1.0/System.Numerics.Vectors.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/lib/netstandard1.0/System.Numerics.Vectors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/lib/netstandard2.0/System.Numerics.Vectors.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/lib/netstandard2.0/System.Numerics.Vectors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/lib/portable-net45+win8+wp8+wpa81/System.Numerics.Vectors.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/lib/portable-net45+win8+wp8+wpa81/System.Numerics.Vectors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/lib/xamarinios10/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/lib/xamarinmac20/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/lib/xamarintvos10/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/lib/xamarinwatchos10/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/ref/MonoAndroid10/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/ref/MonoTouch10/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/ref/net46/System.Numerics.Vectors.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/ref/net46/System.Numerics.Vectors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/ref/netcoreapp2.0/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/ref/netstandard1.0/System.Numerics.Vectors.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/ref/netstandard1.0/System.Numerics.Vectors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/ref/netstandard2.0/System.Numerics.Vectors.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/ref/netstandard2.0/System.Numerics.Vectors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/ref/xamarinios10/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/ref/xamarinmac20/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/ref/xamarintvos10/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/ref/xamarinwatchos10/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/useSharedDesignerContext.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/version.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/.signature.p7s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/LICENSE.TXT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/System.Runtime.CompilerServices.Unsafe.4.5.2.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/THIRD-PARTY-NOTICES.TXT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/lib/netstandard1.0/System.Runtime.CompilerServices.Unsafe.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/lib/netstandard1.0/System.Runtime.CompilerServices.Unsafe.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/ref/netstandard1.0/System.Runtime.CompilerServices.Unsafe.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/ref/netstandard1.0/System.Runtime.CompilerServices.Unsafe.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/ref/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/ref/netstandard2.0/System.Runtime.CompilerServices.Unsafe.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/useSharedDesignerContext.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/version.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proto/Model.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proto/Properties/AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proto/ProtoUtils.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proto/ProtoWorker.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proto/bin/Debug/Google.Protobuf.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proto/bin/Debug/Google.Protobuf.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proto/bin/Debug/Google.Protobuf.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proto/bin/Debug/System.Buffers.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proto/bin/Debug/System.Buffers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proto/bin/Debug/System.Data.SQLite.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proto/bin/Debug/System.Data.SQLite.dll.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proto/bin/Debug/System.Data.SQLite.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proto/bin/Debug/System.Memory.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proto/bin/Debug/System.Memory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proto/bin/Debug/System.Numerics.Vectors.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proto/bin/Debug/System.Numerics.Vectors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proto/bin/Debug/System.Runtime.CompilerServices.Unsafe.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proto/bin/Debug/System.Runtime.CompilerServices.Unsafe.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proto/bin/Debug/log4net.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proto/bin/Debug/log4net.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proto/bin/Debug/model.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proto/bin/Debug/model.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proto/bin/Debug/proto.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proto/bin/Debug/proto.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proto/bin/Debug/repos.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proto/bin/Debug/repos.dll.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proto/bin/Debug/repos.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proto/bin/Debug/services.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proto/bin/Debug/services.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proto/obj/Debug/proto.csproj.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proto/obj/Debug/proto.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proto/obj/Debug/proto.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proto/obj/Debug/proto.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proto/proto.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/bin/Debug/Google.Protobuf.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/bin/Debug/Google.Protobuf.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/bin/Debug/Google.Protobuf.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/bin/Debug/System.Buffers.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/bin/Debug/System.Buffers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/bin/Debug/System.Memory.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/bin/Debug/System.Memory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/bin/Debug/System.Numerics.Vectors.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/bin/Debug/System.Numerics.Vectors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/bin/Debug/System.Runtime.CompilerServices.Unsafe.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/bin/Debug/System.Runtime.CompilerServices.Unsafe.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/bin/Debug/proto.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/bin/Debug/proto.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MPP_TeledonClientServer/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MPP_TeledonClientServer/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MPP_TeledonClientServer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MPP_TeledonClientServer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MPP_TeledonClientServer.sln" beforeDir="false" afterPath="$PROJECT_DIR$/MPP_TeledonClientServer.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/bin/Debug/model.dll" beforeDir="false" afterPath="$PROJECT_DIR$/client/bin/Debug/model.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/bin/Debug/model.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/client/bin/Debug/model.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/bin/Debug/repos.dll" beforeDir="false" afterPath="$PROJECT_DIR$/client/bin/Debug/repos.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/bin/Debug/repos.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/client/bin/Debug/repos.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/bin/Debug/services.dll" beforeDir="false" afterPath="$PROJECT_DIR$/client/bin/Debug/services.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/bin/Debug/services.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/client/bin/Debug/services.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/obj/Debug/client.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/client/obj/Debug/client.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/bin/Debug/model.dll" beforeDir="false" afterPath="$PROJECT_DIR$/model/bin/Debug/model.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/bin/Debug/model.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/model/bin/Debug/model.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/obj/Debug/model.dll" beforeDir="false" afterPath="$PROJECT_DIR$/model/obj/Debug/model.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/obj/Debug/model.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/model/obj/Debug/model.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networking/bin/Debug/model.dll" beforeDir="false" afterPath="$PROJECT_DIR$/networking/bin/Debug/model.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networking/bin/Debug/model.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/networking/bin/Debug/model.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networking/bin/Debug/repos.dll" beforeDir="false" afterPath="$PROJECT_DIR$/networking/bin/Debug/repos.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networking/bin/Debug/repos.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/networking/bin/Debug/repos.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networking/bin/Debug/services.dll" beforeDir="false" afterPath="$PROJECT_DIR$/networking/bin/Debug/services.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networking/bin/Debug/services.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/networking/bin/Debug/services.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networking/obj/Debug/networking.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/networking/obj/Debug/networking.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/bin/Debug/model.dll" beforeDir="false" afterPath="$PROJECT_DIR$/repos/bin/Debug/model.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/bin/Debug/model.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/repos/bin/Debug/model.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/bin/Debug/repos.dll" beforeDir="false" afterPath="$PROJECT_DIR$/repos/bin/Debug/repos.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/bin/Debug/repos.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/repos/bin/Debug/repos.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/obj/Debug/repos.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/repos/obj/Debug/repos.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/obj/Debug/repos.dll" beforeDir="false" afterPath="$PROJECT_DIR$/repos/obj/Debug/repos.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/obj/Debug/repos.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/repos/obj/Debug/repos.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/SerialServer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/server/SerialServer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/ServerService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/server/ServerService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/StartServer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/server/StartServer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/bin/Debug/model.dll" beforeDir="false" afterPath="$PROJECT_DIR$/server/bin/Debug/model.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/bin/Debug/model.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/server/bin/Debug/model.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/bin/Debug/repos.dll" beforeDir="false" afterPath="$PROJECT_DIR$/server/bin/Debug/repos.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/bin/Debug/repos.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/server/bin/Debug/repos.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/bin/Debug/server.exe" beforeDir="false" afterPath="$PROJECT_DIR$/server/bin/Debug/server.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/bin/Debug/server.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/server/bin/Debug/server.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/bin/Debug/services.dll" beforeDir="false" afterPath="$PROJECT_DIR$/server/bin/Debug/services.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/bin/Debug/services.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/server/bin/Debug/services.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/obj/Debug/server.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/obj/Debug/server.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/obj/Debug/server.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/server/obj/Debug/server.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/obj/Debug/server.exe" beforeDir="false" afterPath="$PROJECT_DIR$/server/obj/Debug/server.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/obj/Debug/server.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/server/obj/Debug/server.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/server.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/server/server.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/bin/Debug/model.dll" beforeDir="false" afterPath="$PROJECT_DIR$/services/bin/Debug/model.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/bin/Debug/model.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/services/bin/Debug/model.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/bin/Debug/repos.dll" beforeDir="false" afterPath="$PROJECT_DIR$/services/bin/Debug/repos.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/bin/Debug/repos.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/services/bin/Debug/repos.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/bin/Debug/services.dll" beforeDir="false" afterPath="$PROJECT_DIR$/services/bin/Debug/services.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/bin/Debug/services.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/services/bin/Debug/services.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/obj/Debug/services.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/services/obj/Debug/services.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/obj/Debug/services.dll" beforeDir="false" afterPath="$PROJECT_DIR$/services/obj/Debug/services.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/obj/Debug/services.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/services/obj/Debug/services.pdb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +227,9 @@
     </expand>
     <select />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/model/Donation.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/model/Donor.cs" root0="FORCE_HIGHLIGHTING" />
@@ -61,6 +254,7 @@
     <setting file="file://$PROJECT_DIR$/server/App.config" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/services/VolunteerService.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/client/StartClient.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/proto/packages.config" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/client/FormLogin.resx" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/services/TeledonException.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/repos/packages.config" root0="FORCE_HIGHLIGHTING" />
@@ -71,19 +265,20 @@
     <setting file="file://$PROJECT_DIR$/networking/AbstractServer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/repos/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/networking/ConcurrentServer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/proto/ProtoWorker.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/server/SerialServer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/networking/Worker.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/networking/ObjectRequestProtocol.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/proto/ProtoUtils.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/networking/ObjectResponseProtocol.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/networking/ProxyService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/proto/Model.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/client/Controller.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/model/Case.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/server/Program.cs" />
-        <option value="$PROJECT_DIR$/model/Class1.cs" />
         <option value="$PROJECT_DIR$/services/Class1.cs" />
         <option value="$PROJECT_DIR$/repos/Class1.cs" />
         <option value="$PROJECT_DIR$/networking/Class1.cs" />
@@ -108,7 +303,6 @@
         <option value="$PROJECT_DIR$/networking/AbstractServer.cs" />
         <option value="$PROJECT_DIR$/networking/ConcurrentServer.cs" />
         <option value="$PROJECT_DIR$/networking/SerialServer.cs" />
-        <option value="$PROJECT_DIR$/server/SerialServer.cs" />
         <option value="$PROJECT_DIR$/repos/Properties/AssemblyInfo.cs" />
         <option value="$PROJECT_DIR$/repos/AppRepo.config" />
         <option value="$PROJECT_DIR$/repos/App.config" />
@@ -121,29 +315,39 @@
         <option value="$PROJECT_DIR$/model/Entity.cs" />
         <option value="$PROJECT_DIR$/client/FormLogin.cs" />
         <option value="$PROJECT_DIR$/client/StartClient.cs" />
-        <option value="$PROJECT_DIR$/server/StartServer.cs" />
-        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/e38a2f69-02f7-4095-b8f5-ec4efcc7fc8b/console.sql" />
         <option value="$PROJECT_DIR$/client/FormMain.Designer.cs" />
         <option value="$PROJECT_DIR$/services/ITeledonService.cs" />
-        <option value="$PROJECT_DIR$/server/ServerService.cs" />
         <option value="$PROJECT_DIR$/networking/Worker.cs" />
         <option value="$PROJECT_DIR$/networking/ObjectResponseProtocol.cs" />
         <option value="$PROJECT_DIR$/networking/ProxyService.cs" />
         <option value="$PROJECT_DIR$/client/Controller.cs" />
         <option value="$PROJECT_DIR$/client/FormMain.cs" />
+        <option value="$PROJECT_DIR$/proto/Class1.cs" />
+        <option value="$PROJECT_DIR$/proto/Model.cs" />
+        <option value="$PROJECT_DIR$/proto/ProtoWorker.cs" />
+        <option value="$PROJECT_DIR$/server/SerialServer.cs" />
+        <option value="$PROJECT_DIR$/server/StartServer.cs" />
+        <option value="$PROJECT_DIR$/server/ServerService.cs" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/e38a2f69-02f7-4095-b8f5-ec4efcc7fc8b/console.sql" />
+        <option value="$PROJECT_DIR$/proto/ProtoUtils.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1a5JolMrfGXOyIihE0xohvNfT3t" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DatabaseDriversLRU" value="sqlite" />
     <property name="Rider.SolutionExplorerActivator" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.3" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -153,7 +357,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected=".NET Project.MPP_TeledonClientServer">
+  <component name="RunManager" selected=".NET Project.server">
     <configuration name="MPP_TeledonClientServer" type="DotNetProject" factoryName=".NET Project" singleton="false">
       <option name="EXE_PATH" value="$PROJECT_DIR$/client/bin/Debug/client.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -205,17 +409,7 @@
       <list>
         <serviceView>
           <treeState>
-            <expand>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="root:mpp" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="root:mpp" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="com.intellij.database.console.session.MessageBusSession@382b5e39" type="9fbbdea:ServiceModel$ServiceNode" />
-              </path>
-            </expand>
+            <expand />
             <select />
           </treeState>
         </serviceView>
@@ -237,6 +431,16 @@
       <workItem from="1586203616997" duration="8005000" />
       <workItem from="1586212092086" duration="289000" />
       <workItem from="1586253261166" duration="7437000" />
+      <workItem from="1586381956173" duration="626000" />
+      <workItem from="1586408337266" duration="3231000" />
+      <workItem from="1586694126915" duration="1623000" />
+      <workItem from="1586696609246" duration="1019000" />
+      <workItem from="1587834550692" duration="811000" />
+      <workItem from="1587838638503" duration="5881000" />
+      <workItem from="1587849279020" duration="695000" />
+      <workItem from="1588099862969" duration="272000" />
+      <workItem from="1588154428496" duration="1434000" />
+      <workItem from="1588222665100" duration="1183000" />
     </task>
     <servers />
   </component>
@@ -245,27 +449,43 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="191" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586271733891">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="191" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1586271733891" />
-    <state width="1237" height="319" key="GridCell.Tab.0.bottom" timestamp="1586272184224">
+    <state width="1237" height="89" key="GridCell.Tab.0.bottom" timestamp="1588226016967">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="319" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1586272184224" />
-    <state width="1237" height="319" key="GridCell.Tab.0.center" timestamp="1586272184223">
+    <state width="1237" height="89" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1588226016967" />
+    <state width="1237" height="89" key="GridCell.Tab.0.center" timestamp="1588226016967">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="319" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1586272184223" />
-    <state width="1237" height="319" key="GridCell.Tab.0.left" timestamp="1586272184223">
+    <state width="1237" height="89" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1588226016967" />
+    <state width="1237" height="89" key="GridCell.Tab.0.left" timestamp="1588226016967">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="319" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1586272184223" />
-    <state width="1237" height="319" key="GridCell.Tab.0.right" timestamp="1586272184224">
+    <state width="1237" height="89" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1588226016967" />
+    <state width="1237" height="89" key="GridCell.Tab.0.right" timestamp="1588226016967">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="319" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1586272184224" />
+    <state width="1237" height="89" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1588226016967" />
     <state width="1237" height="249" key="GridCell.Tab.1.bottom" timestamp="1586212068913">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -330,10 +550,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1237" height="249" key="GridCell.Tab.4.right/0.0.1280.680@0.0.1280.680" timestamp="1586212068914" />
-    <state x="0" y="73" key="Rider.ProjectTemplateDialog.Size" timestamp="1586019966252">
+    <state x="0" y="73" key="Rider.ProjectTemplateDialog.Size" timestamp="1587834596372">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="0" y="73" key="Rider.ProjectTemplateDialog.Size/0.0.1280.680@0.0.1280.680" timestamp="1586019966252" />
+    <state x="0" y="73" key="Rider.ProjectTemplateDialog.Size/0.0.1280.680@0.0.1280.680" timestamp="1587834596372" />
     <state x="31" y="30" key="RiderGenerateDialog" timestamp="1586255301427">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

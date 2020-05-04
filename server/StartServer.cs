@@ -26,6 +26,8 @@ namespace server
             SerialServer server = new SerialServer("127.0.0.1", 55555, serverService);
             server.Start();
             Console.WriteLine("Server started... ");
+            //Console.WriteLine("Press <enter> to exit...");
+            Console.ReadLine();
             
         }
         

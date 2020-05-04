@@ -32,12 +32,12 @@ namespace server
             notifyVolunteers();
         }
 
-        public IEnumerable<Donor> searchDonorByName(string substring)
+        public IEnumerable<MPP_TeledonClientServer.model.Donor> searchDonorByName(string substring)
         {
             return this.donationService.searchDonorByName(substring);
         }
 
-        public IEnumerable<Case> getAllCases()
+        public IEnumerable<MPP_TeledonClientServer.model.Case> getAllCases()
         {
             return this.donationService.getAllCases();
         }
@@ -49,8 +49,8 @@ namespace server
 
         private void notifyVolunteers()
         {
-            IEnumerable<Donor> donors = donationService.searchDonorByName("");
-            IEnumerable<Case> cases = donationService.getAllCases();
+            IEnumerable<MPP_TeledonClientServer.model.Donor> donors = donationService.searchDonorByName("");
+            IEnumerable<MPP_TeledonClientServer.model.Case> cases = donationService.getAllCases();
             foreach (var observer in observers)
             {
                 Task.Run(()=>observer.donationDone(donors,cases)) ;
